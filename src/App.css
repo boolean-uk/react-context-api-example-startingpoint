@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 5px;
+}
